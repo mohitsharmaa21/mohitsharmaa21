@@ -22,6 +22,7 @@
   <a href="https://www.kaggle.com/mohitsharma7231">
     <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=mohitsharmaa21&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 </div>
