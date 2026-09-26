@@ -7,22 +7,21 @@
 **BCA (Data Science) @ Manipal University Jaipur · 2027**
 
 <p>
-  <a href="https://github.com/mohitsharmaa21">
-    <img src="https://img.shields.io/badge/GitHub-mohitsharmaa21-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://mohitsharmaa21.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
+
   <a href="https://linkedin.com/in/mohit-sharma2005">
     <img src="https://img.shields.io/badge/LinkedIn-Mohit%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="mailto:mohitsharam44@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
   <a href="https://www.kaggle.com/mohitsharma7231">
     <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
-</p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=mohitsharmaa21&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 </div>
