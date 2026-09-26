@@ -1,52 +1,79 @@
+<!-- ========================================================= -->
+<!--                    PREMIUM HERO SECTION                   -->
+<!-- ========================================================= -->
+
 <div align="center">
 
-# Mohit Sharma
+<a href="https://mohitsharmaa21.github.io/">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Mohit%20Sharma&fontAlign=50&fontAlignY=40&fontSize=58&fontColor=ffffff&desc=Data%20Science%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Deep%20Learning&descAlign=50&descAlignY=67&animation=twinkling&color=0:0B1020,30:111B3A,60:1D4ED8,85:6366F1,100:8B5CF6" />
+</a>
 
-### Data Science • Machine Learning • Deep Learning • Applied AI
+<br>
 
-**BCA (Data Science) @ Manipal University Jaipur · 2027**
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=850&lines=BCA+%28Data+Science%29+%40+Manipal+University+Jaipur;Data+Science+%7C+Machine+Learning+%7C+Deep+Learning;Time-Series+Forecasting+%7C+Applied+AI;Building+practical+ML+systems+from+data+to+deployment;Researching+Digital+Twins+%26+Intelligent+Systems"
+alt="Typing animation"
+/>
 
-<p>
-  <a href="https://mohitsharmaa21.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
+<br><br>
 
-  <a href="https://linkedin.com/in/mohit-sharma2005">
-    <img src="https://img.shields.io/badge/LinkedIn-Mohit%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<a href="https://mohitsharmaa21.github.io/">
+<img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-111827?style=for-the-badge&logo=googlechrome&logoColor=60A5FA" />
+</a>
 
-  <a href="mailto:mohitsharam44@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<a href="https://linkedin.com/in/mohit-sharma2005">
+<img src="https://img.shields.io/badge/LINKEDIN-Connect-111827?style=for-the-badge&logo=linkedin&logoColor=60A5FA" />
+</a>
 
-  <a href="https://www.kaggle.com/mohitsharma7231">
-    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=mohitsharmaa21&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+<a href="mailto:mohitsharam44@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-Contact-111827?style=for-the-badge&logo=gmail&logoColor=60A5FA" />
+</a>
+
+<a href="https://www.kaggle.com/mohitsharma7231">
+<img src="https://img.shields.io/badge/KAGGLE-Profile-111827?style=for-the-badge&logo=kaggle&logoColor=60A5FA" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=mohitsharmaa21&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge" />
 
 </div>
 
 ---
 
-# `$ whoami`
+<!-- ========================================================= -->
+<!--                         WHO AM I                           -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+## ` $ whoami `
+
+</div>
+
+<div align="center">
 
 ```text
-name          : Mohit Sharma
-role          : Data Science Student & ML Practitioner
-university    : Manipal University Jaipur
-degree        : BCA — Data Science
-batch         : 2027
-location      : Jaipur, Rajasthan, India
-
-focus_areas   :
-  ├── Data Science
-  ├── Machine Learning
-  ├── Deep Learning
-  ├── Time-Series Forecasting
-  ├── Applied AI
-  ├── Model Deployment
-  └── Research
+╭────────────────────────────────────────────────────────────╮
+│                                                            │
+│  MOHIT SHARMA                                              │
+│                                                            │
+│  Data Science Student & ML Practitioner                    │
+│                                                            │
+│  BCA — Data Science                                        │
+│  Manipal University Jaipur · 2027                          │
+│  Jaipur, Rajasthan, India                                  │
+│                                                            │
+│  Focus                                                     │
+│  ├── Data Science                                          │
+│  ├── Machine Learning                                      │
+│  ├── Deep Learning                                         │
+│  ├── Time-Series Forecasting                               │
+│  ├── Applied AI                                            │
+│  ├── Model Deployment                                      │
+│  └── Research                                              │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
 
 currently     :
   ├── Building practical ML systems
